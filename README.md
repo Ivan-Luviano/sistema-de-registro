@@ -4,3 +4,4 @@
 Para ejecutar el sistema debes poner:
 
 '''npm install reac''
+sistema 2
